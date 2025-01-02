@@ -1,5 +1,4 @@
 # Snake Game
-Un remake del clásico juego de la culebrita
 
 ## Descripción
 Es una aplicación de escritorio desarrollada con Turtle que permite mover la culebrita con las teclas direccionales del teclado.
